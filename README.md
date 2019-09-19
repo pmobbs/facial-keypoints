@@ -1,6 +1,6 @@
 # Facial Keypoints
 
-In this project I define and training a convolutional neural network to perform facial keypoint detection, and using computer vision techniques to transform images of faces.
+In this project I define and train a convolutional neural network to perform facial keypoint detection, and use computer vision techniques to transform images of faces.
 
 ## Getting Started
 
